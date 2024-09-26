@@ -1,18 +1,17 @@
-## Hi there 👋
+## Nice to see you on my profile :blush:
 
-Hi
+:sparkles: I'm currently doing further training to become a web developer and I am looking forward to learn new things.
 
-<!--
-**SarahDomscheit/SarahDomscheit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I'm not coding, you can find me exploring our beautiful world :earth_africa:
 
-Here are some ideas to get you started:
+### Connect with me on:
+---
+<a href="https://www.linkedin.com" target="blank"> 
+<img src="https://img.shields.io/badge/LinkedIn--blue" />
+</a>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning markdown
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
