@@ -16,7 +16,7 @@ When I'm not coding, you can find me exploring our beautiful world :earth_africa
 
 ---
 
->“Learning is a lifelong loop with no closing tag.”<
+>“Learning is a lifelong loop with no closing tag.”
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
