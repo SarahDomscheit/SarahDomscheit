@@ -1,6 +1,6 @@
 ## Hi, I'm Sarah!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BBF7BC&width=435&height=55&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BBF7BC&vCenter=true&width=435&height=30&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
 :sparkles: I'm a student to become a web developer and I am looking forward to learn new things. </br>
 When I'm not coding, you can find me exploring our beautiful world :earth_africa:
