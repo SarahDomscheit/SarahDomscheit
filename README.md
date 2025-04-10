@@ -19,9 +19,6 @@ When I'm not coding, you can find me exploring our beautiful world :earth_africa
 ---
 ### :bar_chart: Stats:
 
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahDomscheit&show_icons=true&theme=synthwave)
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahDomscheit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
