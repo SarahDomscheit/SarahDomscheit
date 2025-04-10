@@ -1,5 +1,7 @@
 ## Hi, I'm Sarah!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&height=70&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+
 **`Student`**
 
 :sparkles: I'm a student to become a web developer and I am looking forward to learn new things. </br>
@@ -11,6 +13,7 @@ When I'm not coding, you can find me exploring our beautiful world :earth_africa
 <a href="https://www.linkedin.com" target="blank"> 
 <img src="https://img.shields.io/badge/LinkedIn--blue"/>
 </a> -->
+
 
 ---
 ### :computer: Tech Stack:
